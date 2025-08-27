@@ -1,0 +1,7 @@
+timestamp,status,name,confidence
+2025-08-15 14:16:34,Present,WhatsApp Image 2025-08-15 at 13.13.49 3e8e9a49,0.432
+2025-08-15 20:23:34,Present,IMG 5361,0.4144
+2025-08-15 20:24:03,Absent,Unknown,0.0
+2025-08-17 21:20:01,Absent,Unknown,0.0
+2025-08-17 21:21:00,Present,1,0.132
+2025-08-17 21:21:29,Present,1,0.0667
